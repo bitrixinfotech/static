@@ -1,12 +1,5 @@
 {
-    "flag": 1,
-    "msg": "Apps found successfully.",
-    "data": [
-        {
-            "name": "Montaction",
-            "type_of_app": 3,
-            "image": "https://static.bitrixinfotech.com/apis/games/preschool/assets/montaction-icon.png",
-            "android_download_link": "https://play.google.com/store/apps/details?id=com.bitrix.montaction"
-        }
-    ]
+    "flag": 0,
+    "msg": "No More Game available",
+    "data": []
 }
